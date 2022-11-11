@@ -1,0 +1,15 @@
+F:\C# Project\TimeLageHus\TimeLageHus\bin\Debug\net6.0\TimeLageHus.exe
+F:\C# Project\TimeLageHus\TimeLageHus\bin\Debug\net6.0\TimeLageHus.deps.json
+F:\C# Project\TimeLageHus\TimeLageHus\bin\Debug\net6.0\TimeLageHus.runtimeconfig.json
+F:\C# Project\TimeLageHus\TimeLageHus\bin\Debug\net6.0\TimeLageHus.dll
+F:\C# Project\TimeLageHus\TimeLageHus\bin\Debug\net6.0\TimeLageHus.pdb
+F:\C# Project\TimeLageHus\TimeLageHus\obj\Debug\net6.0\TimeLageHus.csproj.AssemblyReference.cache
+F:\C# Project\TimeLageHus\TimeLageHus\obj\Debug\net6.0\TimeLageHus.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# Project\TimeLageHus\TimeLageHus\obj\Debug\net6.0\TimeLageHus.AssemblyInfoInputs.cache
+F:\C# Project\TimeLageHus\TimeLageHus\obj\Debug\net6.0\TimeLageHus.AssemblyInfo.cs
+F:\C# Project\TimeLageHus\TimeLageHus\obj\Debug\net6.0\TimeLageHus.csproj.CoreCompileInputs.cache
+F:\C# Project\TimeLageHus\TimeLageHus\obj\Debug\net6.0\TimeLageHus.dll
+F:\C# Project\TimeLageHus\TimeLageHus\obj\Debug\net6.0\refint\TimeLageHus.dll
+F:\C# Project\TimeLageHus\TimeLageHus\obj\Debug\net6.0\TimeLageHus.pdb
+F:\C# Project\TimeLageHus\TimeLageHus\obj\Debug\net6.0\TimeLageHus.genruntimeconfig.cache
+F:\C# Project\TimeLageHus\TimeLageHus\obj\Debug\net6.0\ref\TimeLageHus.dll
